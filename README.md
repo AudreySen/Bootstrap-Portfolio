@@ -1,33 +1,32 @@
-# bootstrap-portfolio
- IMAGE
+# Bootstrap-Portfolio
+![site img](site_img.png)
 
-![Alt Text](Screenshot1.png)
-![Alt Text](Screenshot2.png)
-![Alt Text](Screenshot3.png)
+## Summary
+I created a portfolio site using Bootstrap.
 
-Summary
-Using Bootstrap, I created a portfolio with three files: an index file, a portfolio file with pictures and a contact file which are linked together.
+## Steps
+I created different elements on a HTML page.
 
-Steps
-I first adjusted different elements on the HTML page.
-Whith Bootstrap, I use a rules to add pictures to my portfolio page.
-I also used Bootstrap to
+Using Bootstrap utilities as 'Borders'and 'Flex' to center the items, I was able to style my components.
+I uses also a Bootstrap nav bar to link my differents html files.
+Again using Bootstrap, I created a Contact page.
 
-Then I added a CSS sheet to style the HTML document.
+I add a CSS file with the Eric Meyer's reset.
 
-After adding backgrounds colors font colors, I mostly focused on widths, heights and paddings of the elements to made them fit in the framework.
+On my portfolio page, I used a Bootstrap grid rows to align my pictures and add the location where I took the pictures.
 
-Each time I made changes to the local repository, I pushed them to GitHub.
+I explained the biggest steps I made to the local repository, and then pushed them to GitHub.
 
-I went to my GitHub repositories. I scroll down to find the right repository.
+I went to my GitHub repositories and scroll down to find the right repository.
 
 I deployed my site by using GitHub pages to create a live site.
 
-Technologies used
+## Technologies used
 HTML
 CSS
 Bootstrap
 Git
 GitHub
-Author Links
-GitHub
+
+## Author Links
+[GitHub](https://github.com/AudreySen)
